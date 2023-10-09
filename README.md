@@ -29,6 +29,18 @@
 
   ## Tests
   -
+  ## Screenshot
+  
+![Screenshot from 2023-10-09 18-10-10](https://github.com/scoges/socialapi/assets/131681487/d9e60d3d-cf7b-46d4-920f-fb2d3fe9bfe6)
+
+  ## Link to video testing
+
+  https://www.dropbox.com/scl/fi/u9chxtob4o92w9jugdl8y/2023-10-09-17-59-45.mkv?rlkey=m3vdy3d04bthpp3xtf9lfktor&dl=0
+  
+
+
+
+
 
   ## Questions
   Have questions about this project?  
