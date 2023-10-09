@@ -1,0 +1,27 @@
+{
+  "name": "socialapi",
+  "version": "1.0.0",
+  "description": "Social api",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scoges/socialapi.git"
+  },
+  "keywords": [
+    "Social"
+  ],
+  "author": "Scott Ogrins",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/scoges/socialapi/issues"
+  },
+  "homepage": "https://github.com/scoges/socialapi#readme",
+
+  "dependencies": {
+  "express": "^4.17.3",
+  "mongoose": "^6.2.9"
+}}
